@@ -2,7 +2,7 @@
 Sara Marijolovic - Computer Science - marijosm@mail.uc.edu  
 Eli Detmers - Computer Science - detmerej@mail.uc.edu  
 Michael Pappa - Computer Science - pappamr@mail.uc.edu  
-Nick Murray - Computer Science - murraynl@mail.uc.edu
+Nick Murray - Computer Science - murraynl@mail.uc.edu                                                
 Advisor: Dr. Will Hawkins
 
 ### Abstract
