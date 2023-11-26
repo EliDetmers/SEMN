@@ -8,3 +8,5 @@ https://huggingface.co/models?pipeline_tag=text-to-image&sort=downloads
 Michael - 25 Hours spent total on combined assignments from Assingment 1-10, 15 hours researching AI image generation models and familiarizing self with training own images in a model, 5 hours spent researching how to use the model in a self written program
 
 Sara - 25 Hours spent total on combined assignments from Assignment 1-10, 2 hours researching existing AI image generation techniques, 10 hours researching interface design techniques and getting familiar with design implementation, 13 hours researching testing frameworks and generating possible test cases for the application
+
+Nick - 25 Hours spent total on combined assignments from Assignment 1-10, 10 hours researching and building the frontend of the appllication, 5 hours connecting the frontend to the backend AI model, and 5 hours working out bugs in the appication.
