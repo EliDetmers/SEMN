@@ -48,7 +48,7 @@ Welcome to the DreamCanvas! This user guide will walk you through the steps to u
 ## 9. Help and Support
 
 - If you encounter any issues or have questions about using the app, you can access the help and support section.
-- This site contains the [FAQ](/FAQ.md) and contact information for customer support.
+- This site contains the [FAQ](/Design%20Files/FAQ.md) and contact information for customer support.
 
 ## 10. Enjoy Using the App!
 
