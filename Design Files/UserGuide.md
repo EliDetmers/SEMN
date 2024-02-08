@@ -6,13 +6,15 @@ Welcome to the DreamCanvas! This user guide will walk you through the steps to u
 
 - Navigate to the DreamCanvas application on your respective device
 
-## 2. Account Creation (Optional)
+## 2. Create New Session or Load Previous Session
 
-- You may need to create an account to use the app. Follow the on-screen prompts to sign up with your email address or social media accounts.
+- Upon opening the application, you will be brought to the home screen where you will choose to either create a new DreamCanvas session, or load a previous session.
+  - If you choose Create New Session, you will be prompted to enter a name for your session, and then begin creating.
+  - If you choose Load Previous Session, you will be brought to a screen where you will choose the session you wish to work with and it will load you into the session you choose.
 
 ## 3. Uploading Photos to Train AI Model
 
-- Tap on the "Upload" button to start uploading photos.
+- Tap on the Add(+) icon under "Add Image and Tag" to begin uploading photos.
 - Choose the photos from your device's gallery or camera roll that you want to use to train the AI image model.
 - You can upload multiple photos to provide a diverse range of images for training.
 - Once uploaded, confirm the selection and proceed.
@@ -25,7 +27,7 @@ Welcome to the DreamCanvas! This user guide will walk you through the steps to u
 ## 5. Creating AI-Generated Images
 
 - Once the AI model is trained, you can start generating AI-generated images with the subject you uploaded.
-- Put prompts into the keyword box to describe what image you desire the model to create, be specific or dont be!
+- Put prompts into the keyword box to describe what image you desire the model to create, be specific or don't be!
 - Tap on the "Generate" or "Create" button to initiate the image creation process.
 - The app will use the trained AI model to generate images based on the subject you provided during the training phase.
 
