@@ -1,14 +1,14 @@
-# User Guide: DreamCanvas
+# User Guide: Dreamscape
 
-Welcome to the DreamCanvas! This user guide will walk you through the steps to upload photos of your choice to train an AI image model and create AI-generated images with the subject you uploaded.
+Welcome to the Dreamscape! This user guide will walk you through the steps to upload photos of your choice to train an AI image model and create AI-generated images with the subject you uploaded.
 
 ## 1. Getting Started
 
-- Navigate to the DreamCanvas application on your respective device
+- Navigate to the Dreamscape application on your respective device
 
 ## 2. Create New Session or Load Previous Session
 
-- Upon opening the application, you will be brought to the home screen where you will choose to either create a new DreamCanvas session, or load a previous session.
+- Upon opening the application, you will be brought to the home screen where you will choose to either create a new Dreamscape session or load a previous session.
   - If you choose Create New Session, you will be prompted to enter a name for your session, and then begin creating.
   - If you choose Load Previous Session, you will be brought to a screen where you will choose the session you wish to work with and it will load you into the session you choose.
 
@@ -54,6 +54,6 @@ Welcome to the DreamCanvas! This user guide will walk you through the steps to u
 
 ## 10. Enjoy Using the App!
 
-- Congratulations! You are now ready to use DreamCanvas to upload photos, train AI models, and create AI-generated images with your chosen subjects.
+- Congratulations! You are now ready to use Dreamscape to upload photos, train AI models, and create AI-generated images with your chosen subjects.
 
 Remember to respect copyright laws and intellectual property rights when uploading and using images in the app. Have fun exploring the creative possibilities with AI-generated images!
