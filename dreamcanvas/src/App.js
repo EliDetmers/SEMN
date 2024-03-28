@@ -1,25 +1,21 @@
-import logo from './logo.svg';
+import * as React from 'react';
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+} from "react-router-dom";
+import Home from './home';
+import Configure from './configure_page';
 import './App.css';
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        {/* <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p> */}
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Start of DreamCanvas
-        </a>
-      </header>
-    </div>
+    <Router>
+      <Routes>
+        <Route exact path="/" element={<Home />} />
+        <Route path="/configure" element={<Configure />} />
+        {/* <Route path="/Test" element={<Test />}/> */}
+      </Routes>
+    </Router>
   );
 }
-
-export default App;
