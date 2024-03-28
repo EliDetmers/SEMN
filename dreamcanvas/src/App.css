@@ -2,16 +2,9 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+/* .Configure {
+  text-align: center;
+} */
 
 .App-header {
   background-color: #282c34;
@@ -22,6 +15,70 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.Configuration-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  /* align-items: center; */
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  text-align: center;
+  height: 100%;
+}
+
+.left-side {
+  border: 1px solid #ccc;
+  padding: 2px;
+  margin-right: 10px; /* Add margin to space out from the right side */
+  outline: auto;
+}
+
+.rightSide {
+  padding: 2px;
+  margin-left: 10px; /* Add margin to space out from the left side */
+  margin-right: 10px; /* Add margin to space out from the right side */
+}
+
+.top-right {
+  /* border: 1px solid #ccc; */
+  padding: 2px;
+  outline: auto;
+  height: 50%;
+}
+
+.bottom-right {
+  /* border: 1px solid #ccc; */
+  padding: 2px;
+  align-items: end;
+  outline: auto;
+  height: 50%;
+}
+
+.AI-input-field {
+  /* display: flex;
+  justify-content: flex-start;
+  align-items: baseline; */
+  color: #ffffff;
+  background-color: #ffffff;
+}
+
+/* .Images-title {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+  margin-left: 50%;
+} */
+
+.Images {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-left: 15%;
+  margin-top: 10%;
 }
 
 .App-link {
