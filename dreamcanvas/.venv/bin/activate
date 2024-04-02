@@ -45,7 +45,7 @@ PATH="$VIRTUAL_ENV/bin:$PATH"
 export PATH
 
 export REPLICATE_API_TOKEN=r8_ZKAfCRrkiLalPmnTmXYdeiGqonM1OVL3wrtGI
-export GOOGLE_APPLICATION_CREDENTIALS="dreamcanvas/replicate/dreamcanvas-418520-ef4a6bae5162.json"
+#export GOOGLE_APPLICATION_CREDENTIALS="dreamcanvas/replicate/dreamcanvas-418520-ef4a6bae5162.json"
 
 # unset PYTHONHOME if set
 # this will fail if PYTHONHOME is set to the empty string (which is bad anyway)
