@@ -1,7 +1,7 @@
 import os
 import requests
 
-zip_path = "dreamcanvas/replicate/Pappa.zip"
+zip_path = "dreamcanvas/uploads/Pappa.zip"
 zip_filename = zip_path.split("/")[-1]
 
 # Upload inputs to cloud storage.

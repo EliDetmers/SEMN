@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dreamcanvas-418520",
+  "private_key_id": "ef4a6bae51628493fae70f753cab391808b8f8e0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2K3UW+4Wo4Ib4\nXgQ0+25kPAiiGsJQqiBjnKsk30iDz5XesQVts6Ki0UixBGvAvR/q2Wi1GUvCbg9L\nJWQm/ioXsmG8V3wFL9GVtFviUC+oQNSd+J1gTYBOOZu0wyTQea+0gTFAWkI/NzXO\nBbwlWFK6z198meMh43jiSRg3jFiJdkYF9cCjS8nRXbg6ds04eOOiQsgtrMWTvNth\n+PdmlfwSR9iW3l7SXI6u5L9ah6sChOQkFjiPtQPLwCRbosisgRAXm0nJ/Vt0ARCH\nyYEQu5TuWo6ShSQ44zdGOg1gLkHo/WnD5dMqYSD8VPzoOpzolrDU1UBvllQ2dZEv\nyqqzBhMfAgMBAAECggEAANnXYi2zIiKMftpggh7Ze49yoUavyjcSS2TTJ9W8xk/I\nU2/Xt7czXWsSLw5MoX0NeR2AM/p+ibORYNqd/jcJMKIUroc10m4/SS5nCAJErjBB\neKpegMKGldb1cz1gyU/7Z3cdsaWpOH4bqbM9KGs73hjcBQ9h5ZA6dJhpNq6L0Kmg\nFp+PEs32nwd8LMwSpQdotNWWwRtExe8J+MAH4b7+XA7BagGJ/csGdm+rlCdJkJDo\nyZP988oK/Ab+hSjLCNsOFbVNbFNWW4kLC4v6s6HDr36IjAOte+KovFClI2GmVlq/\ns9BKchGtJKrsWnkYovmP9UI2ddbygFUgBISk9MmgAQKBgQDbe/X55lxQOgUde0DR\nZWe5cS08FrPE6YOweif7TydFLfLg6RoWGkn0Lgn5Wn+5Li81j2LXRo3CXcbf8ECe\niivROZVoonvXH9+o1QpawCTrQlbFu3bwVhNxMXmTwu4PxCVv6UKh7pv3rCqipqS9\nj3QTtQ5pv409DjYFrqE0QYW+HwKBgQDUej0E/BGEIkuqyidJZd2KGYi8Aoydin3t\n+xp9ukSz5PXa8cOeBCgFNiaw9n+YTrKnmEkuLfOnZEqJpJlOOAAOD9FPSoynKrVS\n6YcUzNqUGoyrgQOVelRiJP2y5vYPzIVO5yGGrLo5amxlzKNT6nlcGmS7cDJIX2r1\nnV/6mQsLAQKBgQCOQK2QJkm2haRDE1tTXBH6EuxqgZxKB78eZk37h7XAFKPSOcJ6\niNddt2kngAxADTrzz9cUB9phGz6GbcSz/IGhvVyk0IrLRxFC77EiWF6VTA3JYlMY\nOfGn75UIu9JnzY0mF1zkby4PPDr16GPlqFBnZXXN/CSiac+Bp0k8ASuZqQKBgQCn\nTVTMnvnf0+1GnoROq9HD0pUyjMNRrOG5SBW0170O9QKNEf5YZqdoaxoODxmqwJS1\nmBhPL0mCDVsPhDZeO4P3jobd6zJS0jMSBOUjAKY/JaSLyjsbMMZOvReyDV/EUuLI\nnP9t/oVnfh+6DGayRZanafTVDePZzp/2o6MWO/lRAQKBgGM9oj1khTGa6M8jmUfe\nv3QEQ7H52mCPU6QdppvEjvOuYLq840vegDbXyMAmbSzJE5TpM+q5KGnWAXXzwsGG\nzk58tx+YAoZI0TP8lBkUAZlIo7orezD2jdOMz2+pVplPDiMLyOAINx279H48HVuv\nEtPkwFq3Mr48gghT9QV15EFw\n-----END PRIVATE KEY-----\n",
+  "client_email": "dreamscapehostphotosapi@dreamcanvas-418520.iam.gserviceaccount.com",
+  "client_id": "112499245414796884670",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dreamscapehostphotosapi%40dreamcanvas-418520.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
