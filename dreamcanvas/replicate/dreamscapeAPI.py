@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 from werkzeug.utils import secure_filename
 from google.cloud import storage
 from datetime import timedelta
@@ -7,10 +8,11 @@ import replicate
 import requests
 
 app = Flask(__name__)
+CORS(app)
 
 UPLOAD_FOLDER = 'uploads'
-API_KEY = os.environ["REPLICATE_API_TOKEN"]
-storage_client = storage.Client.from_service_account_json('dreamcanvas/replicate/dreamcanvas-418520-ef4a6bae5162.json')
+API_KEY = "r8_ZKAfCRrkiLalPmnTmXYdeiGqonM1OVL3wrtGI"
+storage_client = storage.Client.from_service_account_json('replicate/dreamcanvas-418520-f9edc61fe9dd.json')
 
 # def host_photos(zip_file):
 #     zip_filename = secure_filename(zip_file.filename)
@@ -74,8 +76,9 @@ def train_model(zip_url):
 
 @app.route('/generate_image', methods=['POST'])
 def generate_image():
-    prompt = request.form['prompt']
-    lora_url = request.form['lora_url']
+    data = request.json
+    prompt = data['prompt']
+    lora_url = data['lora_url']
     
     output_url = replicate.run(
         "replicate/lora:97ec1b97e5e6a6476e45ba7211d368509bbf39c30a927e39637f3cb98b36ac91",
