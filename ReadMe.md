@@ -21,22 +21,35 @@ University of Cincinnati Senior Design Project '23-'24
     - [ABET Concerns Essay](/Design%20Files/ConstraintEssay.pdf)
 
 6. ### PPT Slideshow
-    - [Design Presentation](/Design%20Files/DesignPresentation.pptx)
+    - [Initial Design Presentation](/Design%20Files/DesignPresentation.pptx)
+    - [Final Design Presentation](/Design%Files/PresentationSlidedeck_SEMN.pptx)
+      
+7. ### Expo Poster
+    - [Poster](/Design%Files/Dreamscape%Expo%Poster.pdf)
 
-7. ### Self-Assesment Essays
-    - [Michael Self-Assesment](/Design%20Files/Self-Assesment%20Essays/IndividualAssessment_Pappa.docx)
-    - [Sara Self-Assesment](/Design%20Files/Self-Assesment%20Essays/Marijolovic%20Assignment%203%20Essay.docx)
-    - [Eli Self-Assesment](/Design%20Files/Self-Assesment%20Essays/Capstone%20Essay%20Detmers.pdf)
-    - [Nick Self-Assesment](/Design%20Files/Self-Assesment%20Essays/Senior%20Design%20Capstone%20Essay%20-%20Murray.pdf)
-
-8. ### Professional Biographies
+8. ### Self-Assessment Essays
+    - Initial:
+        - [Michael Self-Assesment](/Design%20Files/Self-Assesment%20Essays/IndividualAssessment_Pappa.docx)
+        - [Sara Self-Assesment](/Design%20Files/Self-Assesment%20Essays/Marijolovic%20Assignment%203%20Essay.docx)
+        - [Eli Self-Assesment](/Design%20Files/Self-Assesment%20Essays/Capstone%20Essay%20Detmers.pdf)
+        - [Nick Self-Assesment](/Design%20Files/Self-Assesment%20Essays/Senior%20Design%20Capstone%20Essay%20-%20Murray.pdf)
+    - Final:
+        - [Michael Self-Assesment](/Design%20Files/Self-Assesment%20Essays/FinalIndividualAssessment_Pappa.docx)
+            
+9. ### Summary of Hours and Justification
+    - [Michael Justification](/Design%Files/Justifications/Justification_Pappa.md)
+    - [Sara Justification]()
+    - [Eli Justification]()
+    - [Nick Justification]()
+      
+10. ### Professional Biographies
     - [Michael Professional Biography](/Design%20Files/Professional%20Bios/pappa.md)
     - [Sara Professional Biography](/Design%20Files/Professional%20Bios/marijolovic.md)
     - [Eli Professional Biography](/Design%20Files/Professional%20Bios/detmers.md)
     - [Nick Professional Biography](/Design%20Files/Professional%20Bios/murray.md)
 
-9. ### Budget
+11. ### Budget
     - [Budget](/Design%20Files/Budget.md)
 
-10. ### Appendix
+12. ### Appendix
     - [Appendix](/Design%20Files/Appendix.md)
