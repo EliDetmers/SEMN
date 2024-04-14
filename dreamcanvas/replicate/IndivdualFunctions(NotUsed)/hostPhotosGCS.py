@@ -1,6 +1,6 @@
 from google.cloud import storage
 from datetime import timedelta
-storage_client = storage.Client.from_service_account_json('dreamcanvas/SEMN/dreamcanvas-418520-ef4a6bae5162.json')
+storage_client = storage.Client.from_service_account_json('dreamcanvas/SEMN/dreamcanvas-***.json')
 
 def upload_to_gcs(bucket_name, file_path, destination_blob_name):
     # Initialize the GCS client
