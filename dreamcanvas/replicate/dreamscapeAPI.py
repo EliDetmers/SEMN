@@ -11,8 +11,8 @@ app = Flask(__name__)
 CORS(app)
 
 UPLOAD_FOLDER = 'uploads'
-API_KEY = "r8_ZKAfCRrkiLalPmnTmXYdeiGqonM1OVL3wrtGI"
-storage_client = storage.Client.from_service_account_json('replicate/dreamcanvas-418520-f9edc61fe9dd.json')
+API_KEY = "r8_***"
+storage_client = storage.Client.from_service_account_json('replicate/dreamcanvas-***.json')
 
 # def host_photos(zip_file):
 #     zip_filename = secure_filename(zip_file.filename)
