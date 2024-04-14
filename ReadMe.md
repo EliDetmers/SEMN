@@ -42,7 +42,7 @@ University of Cincinnati Senior Design Project '23-'24
             
 9. ### Summary of Hours and Justification
     - [Michael Justification](/Design%Files/Justifications/Justification_Pappa.md)
-    - [Sara Justification](/Design%Files/Justifications/Justification_Marijolovic.md)
+    - [Sara Justification](Design%Files/Justifications/Justification_Marijolovic.md)
     - [Eli Justification](/Design%Files/Justifications/Justification_Detmers.md)
     - [Nick Justification](/Design%Files/Justifications/Justification_Murray.md)
       
