@@ -7,8 +7,8 @@
 
 ## Set the API token and Google Cloud creds (shouldnt be necessary if using venv)
 Run in terminal
-    export REPLICATE_API_TOKEN=r8_ZKAfCRrkiLalPmnTmXYdeiGqonM1OVL3wrtGI
-    export GOOGLE_APPLICATION_CREDENTIALS="dreamcanvas/replicate/dreamcanvas-418520-ef4a6bae5162.json"
+    export REPLICATE_API_TOKEN=***
+    export GOOGLE_APPLICATION_CREDENTIALS="dreamcanvas/replicate/dreamcanvas-***.json"
     
 ## Running API
 
