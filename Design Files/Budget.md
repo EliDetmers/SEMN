@@ -1,3 +1,3 @@
 ## Budget
-There has not been any current expenses for this project as all resources used have been free open source
+Using the Replicate Service we have had to spend $13.96 total for the processing of the model and the image generations. 
 
