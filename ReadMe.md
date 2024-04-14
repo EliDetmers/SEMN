@@ -41,10 +41,10 @@ University of Cincinnati Senior Design Project '23-'24
         
             
 9. ### Summary of Hours and Justification
-    - [Michael Justification](/Design%Files/Justifications/Justification_Pappa.md)
-    - [Sara Justification](Design%Files/Justifications/Justification_Marijolovic.md)
-    - [Eli Justification](/Design%Files/Justifications/Justification_Detmers.md)
-    - [Nick Justification](/Design%Files/Justifications/Justification_Murray.md)
+    - [Michael Justification](/Design%20Files/Justifications/Justification_Pappa.md)
+    - [Sara Justification](Design%20Files/Justifications/Justification_Marijolovic.md)
+    - [Eli Justification](/Design%20Files/Justifications/Justification_Detmers.md)
+    - [Nick Justification](/Design%20Files/Justifications/Justification_Murray.md)
       
 10. ### Professional Biographies
     - [Michael Professional Biography](/Design%20Files/Professional%20Bios/pappa.md)
