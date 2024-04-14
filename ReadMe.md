@@ -35,15 +35,16 @@ University of Cincinnati Senior Design Project '23-'24
         - [Nick Self-Assesment](/Design%20Files/Self-Assesment%20Essays/Senior%20Design%20Capstone%20Essay%20-%20Murray.pdf)
     - Final:
         - [Michael Self-Assesment](/Design%20Files/Self-Assesment%20Essays/FinalIndividualAssessment_Pappa.md)
+        - [Sara Self-Assesment](/Design%20Files/Self-Assesment%20Essays/FinalIndividualAssessment_Marijolovic.md)
         - [Nick Self-Assesment](/Design%20Files/Self-Assesment%20Essays/FinalIndividualAssessment_Murray.md)
         - [Eli Self-Assesment](/Design%20Files/Self-Assesment%20Essays/FinalIndividualAssessment_Detmers.md)
         
             
 9. ### Summary of Hours and Justification
     - [Michael Justification](/Design%Files/Justifications/Justification_Pappa.md)
-    - [Sara Justification]()
-    - [Eli Justification]()
-    - [Nick Justification]()
+    - [Sara Justification](/Design%Files/Justifications/Justification_Marijolovic.md)
+    - [Eli Justification](/Design%Files/Justifications/Justification_Detmers.md)
+    - [Nick Justification](/Design%Files/Justifications/Justification_Murray.md)
       
 10. ### Professional Biographies
     - [Michael Professional Biography](/Design%20Files/Professional%20Bios/pappa.md)
